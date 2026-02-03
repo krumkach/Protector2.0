@@ -33,7 +33,7 @@ The project is structured to support easy updates and additions. I plan to expan
 
 Usage:
 
-Download and run the APK file to install the game on your device. 
+Download and run the APK file (Protector.rar archive) to install the game on your device. 
 
 Contribution & Links:
 
