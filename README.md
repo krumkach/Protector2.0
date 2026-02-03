@@ -1,4 +1,4 @@
-<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/a63c0c2a-1d1c-46d0-abaa-a80984096219" /># Protector2.0
+# Protector2.0
 
 Medieval Clicker Game
 
